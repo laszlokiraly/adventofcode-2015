@@ -15,7 +15,7 @@ function readInput() {
 }
 
 /**
- * reads the input
+ * solves day 8 part 1
  * @param {string[]} lines as the input
  * @return {number} number of characters in all lines
  */
