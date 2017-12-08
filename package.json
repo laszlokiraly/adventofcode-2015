@@ -10,6 +10,7 @@
   "description": "",
   "dependencies": {
     "md5": "^2.0.0",
-    "rx": "^4.0.7"
+    "rx": "^4.0.7",
+    "nearley": "2.11.0"
   }
 }
